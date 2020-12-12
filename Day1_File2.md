@@ -9,7 +9,7 @@ _"If you please--draw me a sheep!"_
 
 _"What!"_
 
-_"Draw me a sheep!"_
+**"Draw me a sheep!"**
 
 I jumped to my feet, completely thunderstruck. I blinked my eyes hard. I looked carefully all around me. And I saw a most extraordinary small person, who stood there examining me with great seriousness. Here you may see the best portrait that, later, I was able to make of him. But my drawing is certainly very much less charming than its model.
 
