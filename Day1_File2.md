@@ -52,9 +52,9 @@ Some content | Other content
 
 Sr. No.|Browser | Version |
 |--|-----|------
-Mozilla Firefox | 87
-Internet Explorer | 86
-Mozilla Firefox | 87
-Internet Explorer | 86
+1|Mozilla Firefox | 87
+2|Internet Explorer | 86
+3|Mozilla Firefox | 87
+4|Internet Explorer | 86
 
 
